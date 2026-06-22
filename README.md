@@ -23,6 +23,5 @@ git push
 
 ## Participantes del taller
 
-<!-- Agregá tu nombre acá -->
-- (tu nombre aquí)
-- arielalegrecg-afk
+<!-- Agregá tu nombre acá, ejemplo: - tunombredeusuario -->
+
